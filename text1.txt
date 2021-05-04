@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 9E09-647D
+
+ Directory of C:\Users\ayushee.vijay\Desktop\MyProject
+
+05/04/2021  04:52 PM    <DIR>          .
+05/04/2021  04:52 PM    <DIR>          ..
+05/04/2021  04:52 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  12,858,875,904 bytes free
